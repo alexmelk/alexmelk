@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning TypeScript, Angular
 - 📫 How to reach me https://t.me/alexmelk_Dev
 
-![download](https://github.com/alexmelk/alexmelk/assets/51793248/74e78884-154c-4e01-81a6-de97ea1db5f8 'title')
+![github-contribution-grid-snake-dark](https://github.com/alexmelk/alexmelk/assets/51793248/19401c52-e404-4805-91c4-19dffb73298d)
